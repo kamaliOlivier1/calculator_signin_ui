@@ -92,4 +92,8 @@ After running the app, you will see an AppBar with tabs for navigation and a Dra
 
 ![Sign-Up Screen](images/sign_up.png)
 
+### Navigation-drawer
+
+![Navigation-drawer](images/navigation_drawer.png)
+
 
